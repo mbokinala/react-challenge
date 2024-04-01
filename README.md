@@ -32,4 +32,6 @@ _**NOTE:** You may find it easier to eliminate all bugs and complete the deliver
 3. A user should be able to filter the list of shows by their rating.
 4. A user should be able to display seasons and episodes when a show is selected.
 
+![](https://github.com/Oneshot-AI/react-challenge/raw/master/public/react-challenge-demo.mov)
+
 > Based on [learn-co-curriculum/Binge-Finder-Debugging-Lab](https://github.com/learn-co-curriculum/Binge-Finder-Debugging-Lab/tree/master)
