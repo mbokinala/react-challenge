@@ -35,5 +35,7 @@ _**NOTE:** You may find it easier to eliminate all bugs and complete the deliver
 
 https://github.com/Oneshot-AI/react-challenge/assets/149123470/e31c81c7-36fe-4d29-aafa-a72c950b0a0b
 
+ksdmcslkmcs
+
 
 > Based on [learn-co-curriculum/Binge-Finder-Debugging-Lab](https://github.com/learn-co-curriculum/Binge-Finder-Debugging-Lab/tree/master)
